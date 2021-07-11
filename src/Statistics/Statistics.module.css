@@ -1,0 +1,26 @@
+.statistics {
+  background-color: white;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 480px;
+}
+
+.title {
+  background-color: rgb(121, 87, 94);
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.statList {
+  display: flex;
+  justify-content: space-around;
+
+  padding-left: 0;
+}
+
+.item {
+  background-color: #fff;
+}

@@ -1,0 +1,17 @@
+.friendsList {
+  margin: 0 auto;
+  padding: 0 15px;
+  max-width: 480px;
+}
+
+.friend {
+  display: flex;
+
+  background-color: #fff;
+  box-shadow: 0px 1px 3px rgb(0 0 0 / 12%), 0px 1px 1px rgb(0 0 0 / 14%),
+    0px 2px 1px rgb(0 0 0 / 20%);
+  border-radius: 0px 0px 4px 4px;
+
+  margin-bottom: 15px;
+  padding: 15px;
+}
